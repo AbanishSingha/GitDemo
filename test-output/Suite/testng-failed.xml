@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="swastick.com.Listener"/>
+  </listeners>
+  <test thread-count="5" name="Title validation Test(failed)">
+    <classes>
+      <class name="swastick.com.TitleValidate">
+        <methods>
+          <include name="initialize"/>
+          <include name="basePageNavigation"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- swastick.com.TitleValidate -->
+    </classes>
+  </test> <!-- Title validation Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,149 @@
+12:38:03.905 [main] INFO  resources.Base - Driver is initialized
+12:38:08.953 [main] INFO  resources.Base - Navigated Home Page
+12:38:18.905 [main] INFO  resources.Base - Successfuly validated Message for user: ram@123
+12:38:20.618 [main] INFO  resources.Base - Navigated Home Page
+12:38:26.897 [main] INFO  resources.Base - Successfuly validated Message for user: sam@123
+12:38:27.003 [main] INFO  resources.Base - Browser hasbeen closed
+
+
+12:38:29.382 [main] INFO  resources.Base - Driver is initialized
+12:38:33.058 [main] INFO  resources.Base - Navigation Bar displayed Successfully
+12:38:33.140 [main] INFO  resources.Base - Browser hasbeen closed
+
+
+17:13:48.382 [main] INFO  resources.Base - Driver is initialized
+17:13:54.395 [main] INFO  resources.Base - Navigated Home Page
+17:14:08.250 [main] INFO  resources.Base - Successfuly validated Message for user: ram@123
+17:14:10.202 [main] INFO  resources.Base - Navigated Home Page
+17:14:15.759 [main] INFO  resources.Base - Successfuly validated Message for user: sam@123
+17:14:15.902 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:14:18.264 [main] INFO  resources.Base - Driver is initialized
+17:14:23.134 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:16:30.922 [main] INFO  resources.Base - Driver is initialized
+17:16:35.409 [main] INFO  resources.Base - Navigated Home Page
+17:16:47.879 [main] INFO  resources.Base - Successfuly validated Message for user: ram@123
+17:16:49.489 [main] INFO  resources.Base - Navigated Home Page
+17:16:54.620 [main] INFO  resources.Base - Successfuly validated Message for user: sam@123
+17:16:54.728 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:16:57.189 [main] INFO  resources.Base - Driver is initialized
+17:17:01.900 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:20:35.944 [main] INFO  resources.Base - Driver is initialized
+17:20:40.654 [main] INFO  resources.Base - Navigated Home Page
+17:20:51.924 [main] INFO  resources.Base - Successfuly validated Message for user: ram@123
+17:20:53.763 [main] INFO  resources.Base - Navigated Home Page
+17:20:59.115 [main] INFO  resources.Base - Successfuly validated Message for user: sam@123
+17:20:59.202 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:21:01.593 [main] INFO  resources.Base - Driver is initialized
+17:21:06.669 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:22:53.929 [main] INFO  resources.Base - Driver is initialized
+17:22:59.445 [main] INFO  resources.Base - Navigated Home Page
+17:23:09.793 [main] INFO  resources.Base - Successfuly validated Message for user: ram@123
+17:23:11.591 [main] INFO  resources.Base - Navigated Home Page
+17:23:17.408 [main] INFO  resources.Base - Successfuly validated Message for user: sam@123
+17:23:17.505 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:23:19.847 [main] INFO  resources.Base - Driver is initialized
+17:23:25.205 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:36:20.268 [main] INFO  resources.Base - Driver is initialized
+17:36:25.338 [main] INFO  resources.Base - Navigated Home Page
+17:36:37.665 [main] INFO  resources.Base - Successfuly validated Message for user: ram@123
+17:36:39.544 [main] INFO  resources.Base - Navigated Home Page
+17:36:44.711 [main] INFO  resources.Base - Successfuly validated Message for user: sam@123
+17:36:44.847 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:36:47.367 [main] INFO  resources.Base - Driver is initialized
+17:36:56.393 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:41:56.882 [main] INFO  resources.Base - Driver is initialized
+17:42:03.380 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:46:07.670 [main] INFO  resources.Base - Driver is initialized
+17:46:15.072 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:47:21.478 [main] INFO  resources.Base - Driver is initialized
+17:47:27.045 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:52:46.289 [main] INFO  resources.Base - Driver is initialized
+17:52:50.973 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:55:37.776 [main] INFO  resources.Base - Driver is initialized
+17:55:42.348 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:56:21.601 [main] INFO  resources.Base - Driver is initialized
+17:56:29.307 [main] INFO  resources.Base - Browser hasbeen closed
+
+19:37:05.390 [main] INFO  resources.Base - Driver is initialized
+19:37:14.842 [main] INFO  resources.Base - Browser hasbeen closed
+
+19:42:40.258 [main] INFO  resources.Base - Driver is initialized
+19:42:53.141 [main] INFO  resources.Base - Browser hasbeen closed
+
+17:59:44.932 [main] INFO  resources.Base - Driver is initialized
+17:59:50.019 [main] INFO  resources.Base - Browser hasbeen closed
+
+18:00:24.936 [main] INFO  resources.Base - Driver is initialized
+18:00:28.738 [main] INFO  resources.Base - Browser hasbeen closed
+
+18:01:32.390 [main] INFO  resources.Base - Driver is initialized
+18:01:36.475 [main] INFO  resources.Base - Browser hasbeen closed
+
+18:14:17.984 [main] INFO  resources.Base - Driver is initialized
+18:14:22.205 [main] INFO  resources.Base - Browser hasbeen closed
+
+18:26:11.566 [main] INFO  resources.Base - Driver is initialized
+18:26:15.175 [main] INFO  resources.Base - Navigated Home Page
+18:26:24.934 [main] INFO  resources.Base - Successfuly validated Message for user: ram@123
+18:26:26.510 [main] INFO  resources.Base - Navigated Home Page
+18:26:31.894 [main] INFO  resources.Base - Successfuly validated Message for user: sam@123
+18:26:31.996 [main] INFO  resources.Base - Browser hasbeen closed
+
+18:26:34.485 [main] INFO  resources.Base - Driver is initialized
+18:26:40.836 [main] INFO  resources.Base - Browser hasbeen closed
+
+18:38:14.319 [main] INFO  resources.Base - Driver is initialized
+18:38:18.668 [main] INFO  resources.Base - Navigated Home Page
+18:38:39.065 [main] INFO  resources.Base - Successfuly validated Message for user: ram@123
+18:38:41.451 [main] INFO  resources.Base - Navigated Home Page
+18:38:50.269 [main] INFO  resources.Base - Successfuly validated Message for user: sam@123
+18:38:52.804 [main] INFO  resources.Base - Browser hasbeen closed
+
+18:38:55.684 [main] INFO  resources.Base - Driver is initialized
+18:39:03.171 [main] INFO  resources.Base - Browser hasbeen closed
+
+18:54:13.134 [main] INFO  resources.Base - Driver is initialized
+18:54:17.016 [main] INFO  resources.Base - Navigated Home Page
+18:54:38.093 [main] INFO  resources.Base - Successfuly validated Message for user: ram@123
+18:54:40.533 [main] INFO  resources.Base - Navigated Home Page
+18:54:51.194 [main] INFO  resources.Base - Successfuly validated Message for user: sam@123
+18:54:51.597 [main] INFO  resources.Base - Browser hasbeen closed
+
+18:54:54.378 [main] INFO  resources.Base - Driver is initialized
+18:54:58.413 [main] INFO  resources.Base - Navigation Bar displayed Successfully
+18:55:01.072 [main] INFO  resources.Base - Browser hasbeen closed
+
+19:25:36.072 [main] INFO  resources.Base - Driver is initialized
+19:25:41.430 [main] INFO  resources.Base - Navigated Home Page
+19:25:53.973 [main] INFO  resources.Base - Successfuly validated Message for user: ram@123
+19:25:55.812 [main] INFO  resources.Base - Navigated Home Page
+19:26:01.210 [main] INFO  resources.Base - Successfuly validated Message for user: sam@123
+19:26:01.317 [main] INFO  resources.Base - Browser hasbeen closed
+
+19:26:03.736 [main] INFO  resources.Base - Driver is initialized
+19:26:20.342 [main] INFO  resources.Base - Browser hasbeen closed
+
+19:35:17.912 [main] INFO  resources.Base - Driver is initialized
+19:35:24.210 [main] INFO  resources.Base - Navigated Home Page
+19:35:34.044 [main] INFO  resources.Base - Successfuly validated Message for user: ram@123
+19:35:35.425 [main] INFO  resources.Base - Navigated Home Page
+19:35:40.046 [main] INFO  resources.Base - Successfuly validated Message for user: sam@123
+19:35:40.204 [main] INFO  resources.Base - Browser hasbeen closed
+
+19:48:38.765 [main] INFO  resources.Base - Driver is initialized
+19:48:44.614 [main] INFO  resources.Base - Navigated Home Page

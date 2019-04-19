@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="swastick.com.Listener"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Title validation Test(failed)">
+    <classes>
+      <class name="swastick.com.HomePage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- swastick.com.HomePage -->
+      <class name="swastick.com.TitleValidate">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+          <include name="TitleNavigation"/>
+        </methods>
+      </class> <!-- swastick.com.TitleValidate -->
+    </classes>
+  </test> <!-- Title validation Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
